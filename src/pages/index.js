@@ -49,7 +49,7 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your Blueprint
+              Welcome to my site this is for testing, want to make a change? Then please track it :D
             </Heading>
             <p className={styles.description}>
               Heh Aaron Has been making changes again.{' '}
