@@ -52,8 +52,7 @@ export default function Page() {
               Welcome to your Blueprint
             </Heading>
             <p className={styles.description}>
-              Achieve unprecedented performance with modern frameworks and the
-              world&apos;s #1 open source CMS in one powerful headless platform.{' '}
+              Heh Aaron Has been making changes again.{' '}
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
