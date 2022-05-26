@@ -19,12 +19,10 @@ export default function Page() {
       <Header />
 
       <Main>
-        <EntryHeader title="Not found, error 404" />
+        <EntryHeader title="Hey I fixed the 404 header" />
         <div className="container small">
           <p className="text-center">
-            Oops, the page you are looking for does not exist or is no longer
-            available. Everything is still awesome. Just use the search form to
-            find your way.
+            I went ahead and never made this page try something else maybe
           </p>
 
           <form

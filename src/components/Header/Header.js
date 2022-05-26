@@ -34,7 +34,7 @@ export default function Header({ className }) {
                   src="/logo.png"
                   width={400}
                   height={80}
-                  alt="Blueprint media logo"
+                  alt="vans are the best"
                   layout="responsive"
                 />
               </a>
