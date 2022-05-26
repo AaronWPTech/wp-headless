@@ -13,11 +13,11 @@ const appConfig = {
    */
   socialLinks: {
     twitterUrl: 'https://twitter.com/wpengine',
-    facebookUrl: 'https://www.facebook.com/wpengine',
-    instagramUrl: 'https://www.instagram.com/wpengine/',
+    facebookUrl: 'https://www.facebook.com/azzajm/',
+    instagramUrl: 'https://www.instagram.com/aaronmccann95/',
     youtubeUrl: 'https://youtube.com/wpengine',
     githubUrl: 'https://github.com/wpengine',
-    linkedinUrl: 'https://www.linkedin.com/company/wpengine',
+    linkedinUrl: 'https://www.linkedin.com/in/aaron-mccann-a8730b190/',
   },
 };
 
